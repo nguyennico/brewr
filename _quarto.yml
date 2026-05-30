@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "brewR"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - services.qmd
+      - cases_studies.qmd
+      - blog.qmd
+      - contact.qmd
+
+format:
+  html:
+    theme: cosmo
+    page-layout: full # Sets the entire website to a full width layout
+    css: styles.css
+    toc: true
+
+editor: visual
+

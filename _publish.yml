@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: dfaacb79-4933-4a30-a367-e4cdbbe40235
+      url: 'https://niconguyen.quarto.pub/brewr'
