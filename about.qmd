@@ -1,5 +1,63 @@
 ---
 title: "About Us"
+subtitle: "20 years of global operational experience. Driven by modern data science."
 ---
 
-To write something here...
+## The Vision Behind planr
+
+**planr** was founded to solve a frustration shared by supply chain executives worldwide: the heavy reliance on fragile, manual spreadsheets to bridge the gaps left by rigid enterprise software.
+
+We do not believe in adding more proprietary software layers or complex user licenses to your tech stack. Instead, our mission is to deliver **agile, code-driven operational mathematics** directly into your existing ecosystem. By turning supply chain logic into clean, reproducible R code, we help global organizations eliminate manual data preparation, stabilize their S&OP cycles, and unlock true inventory visibility.
+
+------------------------------------------------------------------------
+
+## Leadership & Technical Expertise
+
+Our consulting frameworks are designed and led by a veteran supply chain architect with a unique blend of deep operational leadership and advanced analytics engineering.
+
+### 🌍 20 Years of Global Operations
+
+Having spent two decades directing end-to-end supply chain functions across both **Europe (France)** and **Asia-Pacific (Japan, Singapore, Taiwan)**, we understand the real-world pressures of local markets and global networks. This extensive cross-cultural exposure shapes planning frameworks that are both highly adaptable and resilient to global disruptions.
+
+### 🏢 Cross-Industry Perspective
+
+Our methodologies have been proven, scaled, and refined across highly regulated, fast-moving, and complex value chains: \* **Alcohol & Spirits:** Navigating high seasonality, complex promotional blocks, and long-lead-time distribution network challenges. \* **Pharmaceuticals & Medical Devices:** Managing strict service levels, cold chain logistics, and high-stakes demand volatility. \* **Cosmetics:** Balancing rapid product lifecycles, high SKU-complexity, and strict inventory turnover targets.
+
+### 🛠️ Deep Domain Mastery
+
+Having held nearly every critical seat at the planning table—including **Demand Manager, Supply Planning Manager, Digital Supply Chain Leader, Global S&OP Leader, and Supply Chain Analytics Manager**—we do not look at your data through a purely theoretical lens. We understand the precise operational bottlenecks your teams face every week because we have managed them firsthand.
+
+------------------------------------------------------------------------
+
+## Bridging the Gap: Business Intelligence & R
+
+While traditional Business Intelligence (BI) tools are excellent for looking backward and reporting historical metrics, modern supply chains require **forward-looking, predictive mathematics** to stay agile.
+
+Having worked deeply with standard enterprise architectures and advanced BI frameworks since 2015, we recognized that the ultimate competitive advantage lies in statistical programming. **R is our engine of choice.** It allows us to build bespoke, reproducible data pipelines that automate complex operations—such as bucket splits, dynamic inventory coverage simulations, and rules-based demand allocations—in seconds.
+
+------------------------------------------------------------------------
+
+## Commitment to the Supply Chain Community
+
+We believe that the future of supply chain excellence belongs to open-source innovation and education. Our commitment to advancing the field is driven by two core pillars:
+
+### 🎓 Academic Leadership
+
+We actively shape the next generation of supply chain leaders by teaching advanced Master’s degree modules at leading **Business Schools and Engineering Schools in France**. This keeps our consulting frameworks at the absolute cutting edge of academic theory and industry practice.
+
+### 📦 The `planr` R Package
+
+We are the authors and developers of the open-source **`planr` R package**. Designed explicitly for supply chain professionals, `planr` encapsulates industry-standard planning mathematics—such as DRP calculations, projected inventory snapshots, and short shelf-life risk tracking—into highly efficient, open-source R functions.
+
+When you partner with us, you are not getting generic consultants; you are working directly with the engineers who write the tools that automate modern supply chain analytics.
+
+# Our Philosophy
+
+We believe that standard supply chain software is too heavy, and standard spreadsheets are too fragile.
+
+**planr** was founded on a simple premise: **Supply Chain Management is fundamentally about transparent, predictable mathematics.** Our consulting methodology is heavily inspired by the philosophy of the open-source `planr` R ecosystem—delivering modular, fast, and completely customizable tools that adapt to your unique constraints rather than forcing you into a proprietary software box.
+
+# Who We Serve
+
+We partner with Supply Chain Directors, Demand Managers, and S&OP Leads who are tired of fighting technical debt. If you have data in an ERP, data in a warehouse, and want a clean, lightning-fast mathematical engine to turn those pipelines into a cohesive operational roadmap, we design the code to get you there.
+

@@ -1,3 +1,18 @@
 ---
-title: "contact"
+title: "Get in Touch"
+subtitle: "Let's automate your planning bottlenecks."
 ---
+
+Ready to transition from manual spreadsheets to a robust, code-driven S&OP framework? Contact us to set up a scoping session where we can audit your current data structures and map out an R-based automation path.
+
+### How to Reach Us
+* **Email:** partner@planr.consulting
+* **Office Location:** Taipei / International Hybrid Services
+
+---
+
+### Schedule an Audit
+If you are currently experiencing any of the following challenges, let us know in your inquiry so we can tailor our initial conversation:
+1. S&OP data consolidation takes longer than 2 days each month.
+2. High SKU counts are creating massive calculation drag on your inventory sheet formulas.
+3. Short-shelf life or expiry tracking requires extensive manual tracking and validation loops.

@@ -1,3 +1,20 @@
 ---
-title: "Blog"
+title: "Publications"
 ---
+
+
+::: {.hero-banner style="background: #f8f9fa; padding: 3rem; border-radius: 10px; margin-bottom: 2rem;"}
+# Book "Demand and Supply Planning using R"
+Learn how to use R in your daily supply chain work.
+[Get the book](contact.html){.btn .btn-primary .btn-lg role="button"}
+:::
+
+
+![book "Demand and Supply planning using R"](www/cover.png){fig-align="center"}
+
+
+# planr R package
+
+## GitHub repository
+
+## website

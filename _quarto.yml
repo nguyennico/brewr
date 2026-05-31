@@ -8,17 +8,40 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - what_is_r.qmd
       - services.qmd
-      - cases_studies.qmd
+      - href: case-studies/index.qmd
+        text: Case Studies
       - blog.qmd
-      - contact.qmd
+
+    right:
+      - href: contact.qmd
+        text: "Get in Touch"
+        icon: envelope
+
+# Simple footer with copyright info
+  page-footer:
+    left: "© 2026 planr consulting. All rights reserved."
+    right: "Built with Quarto & R"
+
 
 format:
   html:
-    theme: cosmo
-    page-layout: full # Sets the entire website to a full width layout
-    css: styles.css
-    toc: true
+    theme: cosmo             # Clean, professional typography and high-contrast layout
+    css: styles.css          # Points to custom styles if you want to override defaults
+    toc: true                # Enables a local Table of Contents on the right side of pages
+    toc-location: right
+    code-fold: true          # Dynamically hides code blocks behind a clickable "Code" button
+    code-summary: "Show R Code"
+    code-copy: true          # Adds a quick copy-paste button to code chunks
+    highlight-style: github  # Clean, readable code color scheme
 
-editor: visual
+# format:
+#   html:
+#     theme: cosmo
+#     page-layout: full # Sets the entire website to a full width layout
+#     css: styles.css
+#     toc: true
+
+#editor: visual
 

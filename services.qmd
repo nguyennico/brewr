@@ -1,3 +1,65 @@
 ---
-title: "Services"
+title: "Consulting Services"
+subtitle: "Bespoke, code-driven analytics to automate your Demand, Supply, and S&OP frameworks."
 ---
+
+At **planr**, we do not sell generic advice. We build lightweight, production-grade automated analytics engines directly into your existing supply chain workflow.
+
+By wrapping your specific operational constraints into custom R scripts, we bridge the gap between your transactional data (ERP/APS) and strategic decision-making, allowing your planning teams to manage by exception rather than fighting spreadsheet errors.
+
+------------------------------------------------------------------------
+
+## 1. Demand Analytics & Tactical Bucket Optimization
+
+Moving from macro-level marketing budgets or sales targets to an executable master production schedule requires highly precise tactical data engineering. We eliminate manual splitting errors and unorganized demand signals.
+
+-   **Automated Time-Bucket Transformations:** We eliminate manual spreadsheet allocations by engineering automated daily, weekly, or monthly bucket splits (`month_to_weekx`). Your macro demand targets are programmatically mapped down to operational manufacturing buckets using dynamic, history-driven weightings.
+-   **Hierarchical Forecast Interfacing:** We build tidy data pipelines that seamlessly aggregate and disaggregate erratic market demand signals from multiple retail and distribution streams, ensuring your data is clean, synchronized, and immediately ready for inventory calculations.
+
+------------------------------------------------------------------------
+
+## 2. Advanced Supply Planning & Multi-Echelon DRP
+
+Avoid the twin traps of working capital-tying overstocks and costly market stockouts. We replace slow, manual replenishment tracking with high-speed multi-echelon Simulation Planning.
+
+-   **Instant Dynamic DRP Engines:** We replace legacy, overnight batch processing with rapid Distribution Requirement Planning loops (`drp()`). Evaluate portfolio-wide stock projections, net requirements, and replenishment schedules across 10,000+ SKUs natively in seconds.
+-   **Live In-Transit Pipeline Tracking:** Integrate active ocean and air freight pipelines (`proj_git()`) directly into your weekly inventory coverage horizons to gain complete, automated visibility over what is globally on its way to your distribution centers.
+-   **Safety Stock & Coverage Diagnostics:** Build continuous safety stock alert mechanisms that dynamically flag forward-looking inventory breaches and run-out timelines based on real lead-time variations, not unscientific averages.
+
+------------------------------------------------------------------------
+
+## 3. Short Shelf Life (SSL) & Obsolete Inventory Risk Mitigation
+
+For highly regulated and fast-moving industries like Pharmaceuticals, Cosmetics, and Fresh Foods, managing inventory age is critical to protecting gross margins.
+
+-   **Automated Expiry & Ageing Analysis:** We write specialized shelf-life projection algorithms (`ssl()`) that map product batches against local target horizons. This gives your planners early-warning alerts for expiring batches or diminishing Remaining Shelf Life (RSL) months before financial write-offs happen.
+-   **Obsolescence Scenario Testing:** Simulate waste risks across multi-country distribution networks during product reformulations, re-packaging updates, or unexpected demand drops.
+
+------------------------------------------------------------------------
+
+## 4. Constrained S&OP Allocation Engines
+
+When supply shocks occur or manufacturing capacity drops, your business cannot rely on manual triage. We replace ad-hoc, chaotic decision-making with automated, rules-based priority mapping.
+
+-   **Financial Gaps & Unfulfilled Demand Diagnostics:** Quantify your precise financial exposure during supply deficits by programmatically calculating unfulfilled demand gaps (`const_dmd()`).
+-   **Algorithmic Fair-Share Distribution:** We build mathematical allocation engines (`alloc_dmd()`) that systematically route restricted inventory across distribution nodes or key global retail clients based on pre-defined corporate tiers, service contracts, or margin priority rules.
+
+------------------------------------------------------------------------
+
+## 5. Legacy Excel-to-R Digital Transformations
+
+We help mature global supply chains transition away from costly "Excel Hell" and heavy, inflexible macro code, upgrading teams to modern, reproducible data workflows.
+
+-   **Spreadsheet Audit & Automation:** We map out your company's critical, hidden planning spreadsheets, extract their underlying mathematical logic, and re-engineer them into fast, clean, secure, and documented R scripts.
+-   **Custom Interactive S&OP Frameworks:** Build lightweight, high-performance HTML/Markdown dashboards and interactive visualization portals that enable your executive S&OP leaders to perform real-time scenario planning during monthly review meetings.
+
+------------------------------------------------------------------------
+
+## Our Engagement Framework
+
+We treat your supply chain logic as clean code. Every consulting project follows an engineering-first pipeline to ensure long-term stability and absolute transparency:
+
+1.  **The Diagnostic Audit:** We analyze your current data environment, identifying manual extraction points, unmapped bottlenecks, and spreadsheet safety risks.
+2.  **Mathematical Prototyping:** We model your business logic natively using R, writing clean code blocks that tackle your specific target coverages, bucket splits, or allocation laws.
+3.  **Pipeline Production:** We deliver a fully localized, self-contained, and documented data architecture that hooks directly into your flat file reports, SQL servers, or ERP exports.
+4.  **Team Empowerment:** We transfer the knowledge, ensuring your planning managers know exactly how to trigger, read, and maintain their new code-driven ecosystem.
