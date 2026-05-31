@@ -1,0 +1,12 @@
+---
+title: "Supply Chain Case Studies"
+subtitle: "Real problems solved with mathematical code, not manual adjustments."
+listing:
+  contents: "."
+  type: grid
+  categories: true
+  sort: "date desc"
+---
+
+Explore how we leverage functional computing and the principles of the `planr` architecture to unlock operational visibility and slash working capital requirements.
+
