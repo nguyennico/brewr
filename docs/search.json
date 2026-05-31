@@ -4,27 +4,300 @@
     "href": "about.html",
     "title": "About Us",
     "section": "",
-    "text": "To write something here…"
+    "text": "planr was founded to solve a frustration shared by supply chain executives worldwide: the heavy reliance on fragile, manual spreadsheets to bridge the gaps left by rigid enterprise software.\nWe do not believe in adding more proprietary software layers or complex user licenses to your tech stack. Instead, our mission is to deliver agile, code-driven operational mathematics directly into your existing ecosystem. By turning supply chain logic into clean, reproducible R code, we help global organizations eliminate manual data preparation, stabilize their S&OP cycles, and unlock true inventory visibility."
   },
   {
     "objectID": "index.html#key-features-and-capabilities",
     "href": "index.html#key-features-and-capabilities",
-    "title": "Homepage",
+    "title": "Predictive Analytics for Resilient Supply Chains",
     "section": "Key Features and Capabilities",
     "text": "Key Features and Capabilities\n\nSpecialized Purpose: Unlike general-purpose languages like Python, R was built by statisticians, meaning its core functionality and extensive ecosystem of packages are heavily optimized for statistical tasks and data manipulation.\nVast Ecosystem of Packages: A major strength of R is its repository, the Comprehensive R Archive Network (CRAN), which hosts over 20,000 user-contributed packages that extend its capabilities for specialized tasks such as machine learning (e.g., caret, xgboost), advanced visualization (ggplot2, plotly), and bioinformatics.\nPowerful Data Visualization: R is renowned for its high-quality, publication-ready graphics. Packages like ggplot2 allow for creating highly customizable and aesthetically pleasing charts and interactive web applications using frameworks like Shiny.\nPlatform Independence: R runs on various operating systems, including Windows, macOS, and Linux. • Strong Community: R has a large and active community that contributes to its ongoing development, documentation, and support through forums and conferences like useR!.\nIntegration: It can integrate with other programming languages, such as C, C++, and Python, for computationally intensive tasks or expanded functionality."
   },
   {
     "objectID": "index.html#primary-use-cases",
     "href": "index.html#primary-use-cases",
-    "title": "Homepage",
+    "title": "Predictive Analytics for Resilient Supply Chains",
     "section": "Primary Use Cases",
     "text": "Primary Use Cases\nR is a go-to tool for professionals across many data-intensive fields:\n\nData Science and Analytics: Used for data cleaning, transformation, analysis, and building predictive models.\nAcademic Research: A standard tool for statistical analysis, hypothesis testing, and producing reproducible research.\nFinance: Employed for credit risk modeling, fraud detection, and portfolio analysis.\nHealthcare and Biostatistics: Used in genetics, epidemiology, and drug discovery to analyze complex medical and genomic data.\nMarketing: Used for customer segmentation, campaign performance analysis, and sentiment analysis.\nSupply Chain : To perform Demand & Supply Planning calculations, create an E2E (End-to-End) analysis, manage some allocations or to run some scenarios for the S&OP (Sales & Operations Planning) process\n\n\nUsers typically interact with R through an Integrated Development Environment (IDE), with RStudio being the most popular choice."
   },
   {
     "objectID": "index.html#key-advantages-of-using-r-for-supply-chain-management",
     "href": "index.html#key-advantages-of-using-r-for-supply-chain-management",
-    "title": "Homepage",
+    "title": "Predictive Analytics for Resilient Supply Chains",
     "section": "Key Advantages of Using R for Supply Chain Management",
     "text": "Key Advantages of Using R for Supply Chain Management\n\nAdvanced Statistical Analysis and Modeling: R was specifically designed for statisticians and excels in complex statistical modeling, econometrics, and research applications. This capability is crucial for:\n\nDemand forecasting using various time-series models.\nInventory optimization to reduce stockouts and lower carrying costs.\nRegression analysis to identify factors influencing demand or lead times.\nOptimization modeling for supply chain network design and reverse logistics systems (e.g., minimizing transportation costs).\n\nReproducibility and Automation: R code inherently documents the analysis process, making supply chain operations more transparent, easier to debug, and reproducible. This allows for the automation of repetitive tasks like data cleaning and reporting, saving significant time.\nPowerful Visualization and Reporting: R offers robust packages like ggplot2 for creating high-quality static visualizations and Shiny for building interactive web applications and dashboards. These applications can be shared with various stakeholders (sales, finance, management) to balance demand and supply visually and support the Sales & Operations Planning (S&OP) process.\nFlexibility and Customization: As an open-source language with a vast collection of community-developed packages, R provides access to cutting-edge techniques as soon as they emerge. This allows supply chain professionals to develop custom algorithms and models tailored to specific business needs without being restricted by the update cycles of commercial software.\nCost-Effectiveness: R and many of its enterprise-adjacent tools, like RStudio Connect for deployment, are free or low-cost compared to proprietary systems, offering a quick return on investment through time and cost savings.\n\n\nIn essence, R provides the analytical depth and flexibility needed to address complex, dynamic supply chain challenges, enabling data-driven decision-making and improved operational efficiency."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Predictive Analytics for Resilient Supply Chains",
+    "section": "",
+    "text": "We build custom, reproducible data pipelines and forecasting models that transform chaotic supply chain data into actionable inventory and demand strategies. Schedule a Consultation"
+  },
+  {
+    "objectID": "index.html#why-planr",
+    "href": "index.html#why-planr",
+    "title": "Modern Supply Chain Mathematics",
+    "section": "Why planr?",
+    "text": "Why planr?\nTraditional ERP modules are rigid. We use custom R environments to build bespoke tools that adapt directly to your business constraints.\n\nDemand Planning: Machine learning models that account for seasonality, promotions, and macroeconomic indicators.\nSupply & Inventory Optimization: Safety stock simulations built on actual demand distributions, not generic averages.\nS&OP Alignment: Automated executive dashboards that align Sales, Finance, and Operations instantly."
+  },
+  {
+    "objectID": "cases_studies.html",
+    "href": "cases_studies.html",
+    "title": "Supply Chain Case Studies",
+    "section": "",
+    "text": "Explore how we leverage functional computing and the principles of the planr architecture to unlock operational visibility and slash working capital requirements.\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Us\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBlog\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGet in Touch\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ndrp_automation\n\n\n\nDemand and Supply Planning\n\nDRP\n\nS&OP\n\nR\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredictive Analytics for Resilient Supply Chains\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nServices\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "cases_studies.html#the-challenge",
+    "href": "cases_studies.html#the-challenge",
+    "title": "Case Studies",
+    "section": "The Challenge",
+    "text": "The Challenge\nA global distributor struggled with manual Excel-based forecasting, resulting in a 22% stockout rate on high-margin items during seasonal peaks."
+  },
+  {
+    "objectID": "cases_studies.html#our-approach",
+    "href": "cases_studies.html#our-approach",
+    "title": "Case Studies",
+    "section": "Our Approach",
+    "text": "Our Approach\nWe implemented a hierarchical time-series forecasting framework using the fable package in R. The system aggregates patterns at the regional level while forecasting down to individual item numbers."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Get in Touch",
+    "section": "",
+    "text": "Ready to transition from manual spreadsheets to a robust, code-driven S&OP framework? Contact us to set up a scoping session where we can audit your current data structures and map out an R-based automation path.\n\nHow to Reach Us\n\nEmail: partner@planr.consulting\nOffice Location: Taipei / International Hybrid Services\n\n\n\n\nSchedule an Audit\nIf you are currently experiencing any of the following challenges, let us know in your inquiry so we can tailor our initial conversation: 1. S&OP data consolidation takes longer than 2 days each month. 2. High SKU counts are creating massive calculation drag on your inventory sheet formulas. 3. Short-shelf life or expiry tracking requires extensive manual tracking and validation loops."
+  },
+  {
+    "objectID": "case-studies/drp_automation.html",
+    "href": "case-studies/drp_automation.html",
+    "title": "drp_automation",
+    "section": "",
+    "text": "A global distributor struggled with manual Excel-based forecasting, resulting in a 22% stockout rate on high-margin items during seasonal peaks.\n\n\n\nWe implemented a hierarchical time-series forecasting framework using the fable package in R. The system aggregates patterns at the regional level while forecasting down to individual item numbers."
+  },
+  {
+    "objectID": "case-studies/drp_automation.html#the-challenge",
+    "href": "case-studies/drp_automation.html#the-challenge",
+    "title": "drp_automation",
+    "section": "",
+    "text": "A global distributor struggled with manual Excel-based forecasting, resulting in a 22% stockout rate on high-margin items during seasonal peaks."
+  },
+  {
+    "objectID": "case-studies/drp_automation.html#our-approach",
+    "href": "case-studies/drp_automation.html#our-approach",
+    "title": "drp_automation",
+    "section": "",
+    "text": "We implemented a hierarchical time-series forecasting framework using the fable package in R. The system aggregates patterns at the regional level while forecasting down to individual item numbers."
+  },
+  {
+    "objectID": "case-studies/index.html",
+    "href": "case-studies/index.html",
+    "title": "Supply Chain Case Studies",
+    "section": "",
+    "text": "Explore how we leverage functional computing and the principles of the planr architecture to unlock operational visibility and slash working capital requirements.\n\n\n\n\n\n\n\n\n\n\n\n\ndrp_automation\n\n\n\nDemand and Supply Planning\n\nDRP\n\nS&OP\n\nR\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nprojected_inventories_calculation\n\n\n\nDemand and Supply Planning\n\nProjected Inventories\n\nS&OP\n\nR\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "case-studies/projected_inventories_calculation.html",
+    "href": "case-studies/projected_inventories_calculation.html",
+    "title": "projected_inventories_calculation",
+    "section": "",
+    "text": "blablabla\n\n\nShow R Code\n# ETL\nlibrary(tidyverse)\n\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.2.0     ✔ readr     2.2.0\n✔ forcats   1.0.1     ✔ stringr   1.6.0\n✔ ggplot2   4.0.2     ✔ tibble    3.3.1\n✔ lubridate 1.9.5     ✔ tidyr     1.3.2\n✔ purrr     1.2.1     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\n\nShow R Code\n# for the tables\nlibrary(reactable)\nlibrary(reactablefmtr)\n\n\n\nAttaching package: 'reactablefmtr'\n\nThe following object is masked from 'package:ggplot2':\n\n    margin\n\n\nShow R Code\n# for the charts\nlibrary(highcharter)\n\n\nRegistered S3 method overwritten by 'quantmod':\n  method            from\n  as.zoo.data.frame zoo \n\n\nShow R Code\n# for the Demand & Supply Planning calculations : the library planr\nlibrary(planr)\n\n\n\n\nShow R Code\n# let's create 4 variables\nPeriod &lt;- c(\n\"1/1/2020\", \"2/1/2020\", \"3/1/2020\", \"4/1/2020\", \"5/1/2020\", \"6/1/2020\", \"7/1/2020\", \"8/1/2020\", \"9/1/2020\", \"10/1/2020\", \"11/1/2020\", \"12/1/2020\",\"1/1/2021\", \"2/1/2021\", \"3/1/2021\", \"4/1/2021\", \"5/1/2021\", \"6/1/2021\", \"7/1/2021\", \"8/1/2021\", \"9/1/2021\", \"10/1/2021\", \"11/1/2021\", \"12/1/2021\")\n\nDemand &lt;- c(360, 458,300,264,140,233,229,208,260,336,295,226,336,434,276,240,116,209,205,183,235,312,270,201)\n\nOpening &lt;- c(1310,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)\n\nSupply &lt;- c(0,0,0,0,0,2500,0,0,0,0,0,0,0,0,0,2000,0,0,0,0,0,0,0,0)\n\n\n# assemble those variables in a dataframe\nmy_demand_and_suppply &lt;- data.frame(Period,\n                                    Demand,\n                                    Opening,\n                                    Supply)\n\n# let's add a Product\nmy_demand_and_suppply$DFU &lt;- \"Product A\"\n\n# format the Period as a date\nmy_demand_and_suppply$Period &lt;- as.Date(as.character(my_demand_and_suppply$Period), format = '%m/%d/%Y')\n\n\n# let's have a look at it\nhead(my_demand_and_suppply)\n\n\n      Period Demand Opening Supply       DFU\n1 2020-01-01    360    1310      0 Product A\n2 2020-02-01    458       0      0 Product A\n3 2020-03-01    300       0      0 Product A\n4 2020-04-01    264       0      0 Product A\n5 2020-05-01    140       0      0 Product A\n6 2020-06-01    233       0   2500 Product A\n\n\n\n\nShow R Code\n# calculate\ncalculated_projection &lt;- planr::light_proj_inv(dataset = my_demand_and_suppply, \n                                        DFU = DFU, \n                                        Period = Period, \n                                        Demand =  Demand, \n                                        Opening = Opening, \n                                        Supply = Supply)\n\n\nJoining with `by = join_by(DFU, Period)`\n\n\nShow R Code\n# see results\nhead(calculated_projection)\n\n\n        DFU     Period Demand Opening Calculated.Coverage.in.Periods\n1 Product A 2020-01-01    360    1310                            2.7\n2 Product A 2020-02-01    458       0                            1.7\n3 Product A 2020-03-01    300       0                            0.7\n4 Product A 2020-04-01    264       0                            0.0\n5 Product A 2020-05-01    140       0                            0.0\n6 Product A 2020-06-01    233       0                            7.4\n  Projected.Inventories.Qty Supply\n1                       950      0\n2                       492      0\n3                       192      0\n4                       -72      0\n5                      -212      0\n6                      2055   2500\n\n\n\n\nShow R Code\n#-------------------\n# Get data\n#-------------------\n\n# set a working df\ndf1 &lt;- calculated_projection\n\n\n#-------------------\n# Transform\n#-------------------\n\n# keep only the needed columns\ndf1 &lt;- df1 |&gt; select(Period,\n                      Demand,\n                      Calculated.Coverage.in.Periods,\n                      Projected.Inventories.Qty,\n                      Supply)\n\n\n# create a f_colorpal field\ndf1 &lt;- df1 |&gt; mutate(f_colorpal = case_when( Calculated.Coverage.in.Periods &gt; 6 ~ \"#FFA500\",\n                                              Calculated.Coverage.in.Periods &gt; 2 ~ \"#32CD32\",\n                                              Calculated.Coverage.in.Periods &gt; 0 ~ \"#FFFF99\",\n                                              TRUE ~ \"#FF0000\" ))\n\n\n\n#-------------------\n# Table\n#-------------------\n\n\n# create reactable\nreactable(df1, resizable = TRUE, showPageSizeOptions = TRUE,\n\n              striped = TRUE, highlight = TRUE, compact = TRUE,\n              defaultPageSize = 20,\n\n              columns = list(\n\n                Demand = colDef(\n                  name = \"Demand (units)\",\n\n                  cell = data_bars(df1,\n                                   fill_color = \"#3fc1c9\",\n                                   text_position = \"outside-end\"\n                  )\n\n                ),\n\n              Calculated.Coverage.in.Periods = colDef(\n                name = \"Coverage (Periods)\",\n                maxWidth = 90,\n                cell= color_tiles(df1, color_ref = \"f_colorpal\")\n              ),\n\n              f_colorpal = colDef(show = FALSE), # hidden, just used for the coverages\n\n                `Projected.Inventories.Qty`= colDef(\n                  name = \"Projected Inventories (units)\",\n                  format = colFormat(separators = TRUE, digits=0),\n\n                  style = function(value) {\n                    if (value &gt; 0) {\n                      color &lt;- \"#008000\"\n                    } else if (value &lt; 0) {\n                      color &lt;- \"#e00000\"\n                    } else {\n                      color &lt;- \"#777\"\n                    }\n                    list(color = color\n                         #fontWeight = \"bold\"\n                    )\n                  }\n                ),\n\n              Supply = colDef(\n                name = \"Supply (units)\",\n                cell = data_bars(df1,\n                                 fill_color = \"#3CB371\",\n                                 text_position = \"outside-end\"\n                                 )\n                )\n\n              ), # close columns lits\n\n              columnGroups = list(\n                colGroup(name = \"Projected Inventories\", columns = c(\"Calculated.Coverage.in.Periods\",\n                                                                     \"Projected.Inventories.Qty\"))\n\n              )\n\n    ) # close reactable"
+  },
+  {
+    "objectID": "index.html#the-supply-chain-capability-gap",
+    "href": "index.html#the-supply-chain-capability-gap",
+    "title": "Modern Supply Chain Mathematics",
+    "section": "The Supply Chain Capability Gap",
+    "text": "The Supply Chain Capability Gap\nModern enterprises spend millions implementing global Enterprise Resource Planning (ERP) systems and Advanced Planning Suites (APS). Yet, if you walk into almost any supply chain department, the actual day-to-day tactical decisions are still being run on fragile, slow, manual Excel workbooks.\nWhy? Because static enterprise software is built for standardization, not agility.\nWhen your business encounters real-world disruptions—like changing shelf-life constraints, complex promotional buckets, or the need for fair-share demand allocations—legacy software forces your team to extract data into spreadsheets that break if a single column moves."
+  },
+  {
+    "objectID": "index.html#why-r-the-competitive-edge-in-planning",
+    "href": "index.html#why-r-the-competitive-edge-in-planning",
+    "title": "Modern Supply Chain Mathematics",
+    "section": "Why R? The Competitive Edge in Planning",
+    "text": "Why R? The Competitive Edge in Planning\nWe build custom planning solutions using R, an open-source, production-grade statistical programming language. By treating your supply chain logic as code rather than cell formulas, we unlock unprecedented operational advantages:\n\n⚡ Speed & Scale at 10,000+ SKUs\nTraditional spreadsheets grind to a halt when calculating forward stock projections and safety stock coverages across deep product portfolios. R processes millions of rows of supply chain data natively in seconds.\n\n\n🔄 Absolute Reproducibility\nNo more hidden macro bugs or accidental cell deletions. An R-driven pipeline ensures that the exact same mathematical logic is applied to your data every single week, leaving a transparent, auditable trail from raw ERP data to final S&OP plan.\n\n\n🌐 Native Integration & Open Source Freedom\nR connects seamlessly with your existing data stack—whether fetching data from SQL warehouses, cloud APIs, or flat ERP dumps—without requiring expensive per-user software licenses or complex proprietary platforms."
+  },
+  {
+    "objectID": "index.html#the-strategic-complement-to-your-erp-aps",
+    "href": "index.html#the-strategic-complement-to-your-erp-aps",
+    "title": "Modern Supply Chain Mathematics",
+    "section": "The Strategic Complement to Your ERP & APS",
+    "text": "The Strategic Complement to Your ERP & APS\nplanr does not replace your ERP; we unlock its true value. We design targeted algorithms that act as a high-speed analytical layer sitting directly between your transactional systems and your executive S&OP cycle.\n\n\n\n\n\n\n\n\n\nCapability\nTransactional ERP\nTraditional APS Suites\nThe planr Layer (R)\n\n\n\n\nPrimary Function\nSystem of Record & Execution\nRigid, High-Level Optimization\nAgile Operational Mathematics\n\n\nCalculation Speed\nSlow batch processing\nHours/Days overnight\nSeconds (Instant scenario testing)\n\n\nBespoke Business Logic\nHighly expensive to customize\nConstrained by vendor modules\nInfinite flexibility via clean code\n\n\nS&OP Data Prep Time\nDays of manual cleaning\nHours of translation\nFully automated data pipelines\n\n\n\n\nOur Foundational Rule: If an analytical planning rule can be defined mathematically, it can be automated completely. We eliminate the administrative drag of S&OP preparation so your team can focus on execution, not data manipulation."
+  },
+  {
+    "objectID": "index.html#core-pillars-of-the-planr-framework",
+    "href": "index.html#core-pillars-of-the-planr-framework",
+    "title": "Modern Supply Chain Mathematics",
+    "section": "Core Pillars of the planr Framework",
+    "text": "Core Pillars of the planr Framework\nOur consulting interventions leverage lightweight, functional programming architectures to target the three bottlenecks where traditional software fails:\n\nDemand Bucket Automation: Programmatically parsing and aligning erratic demand signals, automatically splitting monthly macro targets into executable, weighted weekly buckets.\nReplenishment & DRP Diagnostics: Algorithmic calculation of forward-looking projected inventory balances, dynamic transit pipeline tracking, and instant safety stock alert systems.\nConstrained Allocation & Risk Management: Rules-based “fair-share” distribution engines to allocate inventory optimally during supply shocks, alongside automated tracking of short-shelf life (SSL) write-off exposures."
+  },
+  {
+    "objectID": "services.html",
+    "href": "services.html",
+    "title": "Consulting Services",
+    "section": "",
+    "text": "At planr, we do not sell generic advice. We build lightweight, production-grade automated analytics engines directly into your existing supply chain workflow.\nBy wrapping your specific operational constraints into custom R scripts, we bridge the gap between your transactional data (ERP/APS) and strategic decision-making, allowing your planning teams to manage by exception rather than fighting spreadsheet errors."
+  },
+  {
+    "objectID": "services.html#key-features-and-capabilities",
+    "href": "services.html#key-features-and-capabilities",
+    "title": "Services",
+    "section": "",
+    "text": "Specialized Purpose: Unlike general-purpose languages like Python, R was built by statisticians, meaning its core functionality and extensive ecosystem of packages are heavily optimized for statistical tasks and data manipulation.\nVast Ecosystem of Packages: A major strength of R is its repository, the Comprehensive R Archive Network (CRAN), which hosts over 20,000 user-contributed packages that extend its capabilities for specialized tasks such as machine learning (e.g., caret, xgboost), advanced visualization (ggplot2, plotly), and bioinformatics.\nPowerful Data Visualization: R is renowned for its high-quality, publication-ready graphics. Packages like ggplot2 allow for creating highly customizable and aesthetically pleasing charts and interactive web applications using frameworks like Shiny.\nPlatform Independence: R runs on various operating systems, including Windows, macOS, and Linux. • Strong Community: R has a large and active community that contributes to its ongoing development, documentation, and support through forums and conferences like useR!.\nIntegration: It can integrate with other programming languages, such as C, C++, and Python, for computationally intensive tasks or expanded functionality."
+  },
+  {
+    "objectID": "services.html#primary-use-cases",
+    "href": "services.html#primary-use-cases",
+    "title": "Services",
+    "section": "",
+    "text": "R is a go-to tool for professionals across many data-intensive fields:\n\nData Science and Analytics: Used for data cleaning, transformation, analysis, and building predictive models.\nAcademic Research: A standard tool for statistical analysis, hypothesis testing, and producing reproducible research.\nFinance: Employed for credit risk modeling, fraud detection, and portfolio analysis.\nHealthcare and Biostatistics: Used in genetics, epidemiology, and drug discovery to analyze complex medical and genomic data.\nMarketing: Used for customer segmentation, campaign performance analysis, and sentiment analysis.\nSupply Chain : To perform Demand & Supply Planning calculations, create an E2E (End-to-End) analysis, manage some allocations or to run some scenarios for the S&OP (Sales & Operations Planning) process\n\n\nUsers typically interact with R through an Integrated Development Environment (IDE), with RStudio being the most popular choice."
+  },
+  {
+    "objectID": "services.html#key-advantages-of-using-r-for-supply-chain-management",
+    "href": "services.html#key-advantages-of-using-r-for-supply-chain-management",
+    "title": "Services",
+    "section": "Key Advantages of Using R for Supply Chain Management",
+    "text": "Key Advantages of Using R for Supply Chain Management\n\nAdvanced Statistical Analysis and Modeling: R was specifically designed for statisticians and excels in complex statistical modeling, econometrics, and research applications. This capability is crucial for:\n\nDemand forecasting using various time-series models.\nInventory optimization to reduce stockouts and lower carrying costs.\nRegression analysis to identify factors influencing demand or lead times.\nOptimization modeling for supply chain network design and reverse logistics systems (e.g., minimizing transportation costs).\n\nReproducibility and Automation: R code inherently documents the analysis process, making supply chain operations more transparent, easier to debug, and reproducible. This allows for the automation of repetitive tasks like data cleaning and reporting, saving significant time.\nPowerful Visualization and Reporting: R offers robust packages like ggplot2 for creating high-quality static visualizations and Shiny for building interactive web applications and dashboards. These applications can be shared with various stakeholders (sales, finance, management) to balance demand and supply visually and support the Sales & Operations Planning (S&OP) process.\nFlexibility and Customization: As an open-source language with a vast collection of community-developed packages, R provides access to cutting-edge techniques as soon as they emerge. This allows supply chain professionals to develop custom algorithms and models tailored to specific business needs without being restricted by the update cycles of commercial software.\nCost-Effectiveness: R and many of its enterprise-adjacent tools, like RStudio Connect for deployment, are free or low-cost compared to proprietary systems, offering a quick return on investment through time and cost savings.\n\n\nIn essence, R provides the analytical depth and flexibility needed to address complex, dynamic supply chain challenges, enabling data-driven decision-making and improved operational efficiency."
+  },
+  {
+    "objectID": "about.html#key-features-and-capabilities",
+    "href": "about.html#key-features-and-capabilities",
+    "title": "About Us",
+    "section": "Key Features and Capabilities",
+    "text": "Key Features and Capabilities\n\nSpecialized Purpose: Unlike general-purpose languages like Python, R was built by statisticians, meaning its core functionality and extensive ecosystem of packages are heavily optimized for statistical tasks and data manipulation.\nVast Ecosystem of Packages: A major strength of R is its repository, the Comprehensive R Archive Network (CRAN), which hosts over 20,000 user-contributed packages that extend its capabilities for specialized tasks such as machine learning (e.g., caret, xgboost), advanced visualization (ggplot2, plotly), and bioinformatics.\nPowerful Data Visualization: R is renowned for its high-quality, publication-ready graphics. Packages like ggplot2 allow for creating highly customizable and aesthetically pleasing charts and interactive web applications using frameworks like Shiny.\nPlatform Independence: R runs on various operating systems, including Windows, macOS, and Linux. • Strong Community: R has a large and active community that contributes to its ongoing development, documentation, and support through forums and conferences like useR!.\nIntegration: It can integrate with other programming languages, such as C, C++, and Python, for computationally intensive tasks or expanded functionality."
+  },
+  {
+    "objectID": "about.html#primary-use-cases",
+    "href": "about.html#primary-use-cases",
+    "title": "About Us",
+    "section": "Primary Use Cases",
+    "text": "Primary Use Cases\nR is a go-to tool for professionals across many data-intensive fields:\n\nData Science and Analytics: Used for data cleaning, transformation, analysis, and building predictive models.\nAcademic Research: A standard tool for statistical analysis, hypothesis testing, and producing reproducible research.\nFinance: Employed for credit risk modeling, fraud detection, and portfolio analysis.\nHealthcare and Biostatistics: Used in genetics, epidemiology, and drug discovery to analyze complex medical and genomic data.\nMarketing: Used for customer segmentation, campaign performance analysis, and sentiment analysis.\nSupply Chain : To perform Demand & Supply Planning calculations, create an E2E (End-to-End) analysis, manage some allocations or to run some scenarios for the S&OP (Sales & Operations Planning) process\n\n\nUsers typically interact with R through an Integrated Development Environment (IDE), with RStudio being the most popular choice."
+  },
+  {
+    "objectID": "about.html#key-advantages-of-using-r-for-supply-chain-management",
+    "href": "about.html#key-advantages-of-using-r-for-supply-chain-management",
+    "title": "About Us",
+    "section": "Key Advantages of Using R for Supply Chain Management",
+    "text": "Key Advantages of Using R for Supply Chain Management\n\nAdvanced Statistical Analysis and Modeling: R was specifically designed for statisticians and excels in complex statistical modeling, econometrics, and research applications. This capability is crucial for:\n\nDemand forecasting using various time-series models.\nInventory optimization to reduce stockouts and lower carrying costs.\nRegression analysis to identify factors influencing demand or lead times.\nOptimization modeling for supply chain network design and reverse logistics systems (e.g., minimizing transportation costs).\n\nReproducibility and Automation: R code inherently documents the analysis process, making supply chain operations more transparent, easier to debug, and reproducible. This allows for the automation of repetitive tasks like data cleaning and reporting, saving significant time.\nPowerful Visualization and Reporting: R offers robust packages like ggplot2 for creating high-quality static visualizations and Shiny for building interactive web applications and dashboards. These applications can be shared with various stakeholders (sales, finance, management) to balance demand and supply visually and support the Sales & Operations Planning (S&OP) process.\nFlexibility and Customization: As an open-source language with a vast collection of community-developed packages, R provides access to cutting-edge techniques as soon as they emerge. This allows supply chain professionals to develop custom algorithms and models tailored to specific business needs without being restricted by the update cycles of commercial software.\nCost-Effectiveness: R and many of its enterprise-adjacent tools, like RStudio Connect for deployment, are free or low-cost compared to proprietary systems, offering a quick return on investment through time and cost savings.\n\n\nIn essence, R provides the analytical depth and flexibility needed to address complex, dynamic supply chain challenges, enabling data-driven decision-making and improved operational efficiency."
+  },
+  {
+    "objectID": "about.html#the-vision-behind-planr",
+    "href": "about.html#the-vision-behind-planr",
+    "title": "About Us",
+    "section": "",
+    "text": "planr was founded to solve a frustration shared by supply chain executives worldwide: the heavy reliance on fragile, manual spreadsheets to bridge the gaps left by rigid enterprise software.\nWe do not believe in adding more proprietary software layers or complex user licenses to your tech stack. Instead, our mission is to deliver agile, code-driven operational mathematics directly into your existing ecosystem. By turning supply chain logic into clean, reproducible R code, we help global organizations eliminate manual data preparation, stabilize their S&OP cycles, and unlock true inventory visibility."
+  },
+  {
+    "objectID": "about.html#leadership-technical-expertise",
+    "href": "about.html#leadership-technical-expertise",
+    "title": "About Us",
+    "section": "Leadership & Technical Expertise",
+    "text": "Leadership & Technical Expertise\nOur consulting frameworks are designed and led by a veteran supply chain architect with a unique blend of deep operational leadership and advanced analytics engineering.\n\n🌍 20 Years of Global Operations\nHaving spent two decades directing end-to-end supply chain functions across both Europe (France) and Asia-Pacific (Japan, Singapore, Taiwan), we understand the real-world pressures of local markets and global networks. This extensive cross-cultural exposure shapes planning frameworks that are both highly adaptable and resilient to global disruptions.\n\n\n🏢 Cross-Industry Perspective\nOur methodologies have been proven, scaled, and refined across highly regulated, fast-moving, and complex value chains: * Alcohol & Spirits: Navigating high seasonality, complex promotional blocks, and long-lead-time distribution network challenges. * Pharmaceuticals & Medical Devices: Managing strict service levels, cold chain logistics, and high-stakes demand volatility. * Cosmetics: Balancing rapid product lifecycles, high SKU-complexity, and strict inventory turnover targets.\n\n\n🛠️ Deep Domain Mastery\nHaving held nearly every critical seat at the planning table—including Demand Manager, Supply Planning Manager, Digital Supply Chain Leader, Global S&OP Leader, and Supply Chain Analytics Manager—we do not look at your data through a purely theoretical lens. We understand the precise operational bottlenecks your teams face every week because we have managed them firsthand."
+  },
+  {
+    "objectID": "about.html#bridging-the-gap-business-intelligence-r",
+    "href": "about.html#bridging-the-gap-business-intelligence-r",
+    "title": "About Us",
+    "section": "Bridging the Gap: Business Intelligence & R",
+    "text": "Bridging the Gap: Business Intelligence & R\nWhile traditional Business Intelligence (BI) tools are excellent for looking backward and reporting historical metrics, modern supply chains require forward-looking, predictive mathematics to stay agile.\nHaving worked deeply with standard enterprise architectures and advanced BI frameworks since 2015, we recognized that the ultimate competitive advantage lies in statistical programming. R is our engine of choice. It allows us to build bespoke, reproducible data pipelines that automate complex operations—such as bucket splits, dynamic inventory coverage simulations, and rules-based demand allocations—in seconds."
+  },
+  {
+    "objectID": "about.html#commitment-to-the-supply-chain-community",
+    "href": "about.html#commitment-to-the-supply-chain-community",
+    "title": "About Us",
+    "section": "Commitment to the Supply Chain Community",
+    "text": "Commitment to the Supply Chain Community\nWe believe that the future of supply chain excellence belongs to open-source innovation and education. Our commitment to advancing the field is driven by two core pillars:\n\n🎓 Academic Leadership\nWe actively shape the next generation of supply chain leaders by teaching advanced Master’s degree modules at leading Business Schools and Engineering Schools in France. This keeps our consulting frameworks at the absolute cutting edge of academic theory and industry practice.\n\n\n📦 The planr R Package\nWe are the authors and developers of the open-source planr R package. Designed explicitly for supply chain professionals, planr encapsulates industry-standard planning mathematics—such as DRP calculations, projected inventory snapshots, and short shelf-life risk tracking—into highly efficient, open-source R functions.\nWhen you partner with us, you are not getting generic consultants; you are working directly with the engineers who write the tools that automate modern supply chain analytics."
+  },
+  {
+    "objectID": "what_is_r.html",
+    "href": "what_is_r.html",
+    "title": "What is R?",
+    "section": "",
+    "text": "R is a free, open-source programming language and software environment specifically designed for statistical computing, data analysis, and data visualization. It is widely used by statisticians, data scientists, and researchers in both academia and industry.\n\n\n\nSpecialized Purpose: Unlike general-purpose languages like Python, R was built by statisticians, meaning its core functionality and extensive ecosystem of packages are heavily optimized for statistical tasks and data manipulation.\nVast Ecosystem of Packages: A major strength of R is its repository, the Comprehensive R Archive Network (CRAN), which hosts over 20,000 user-contributed packages that extend its capabilities for specialized tasks such as machine learning (e.g., caret, xgboost), advanced visualization (ggplot2, plotly), and bioinformatics.\nPowerful Data Visualization: R is renowned for its high-quality, publication-ready graphics. Packages like ggplot2 allow for creating highly customizable and aesthetically pleasing charts and interactive web applications using frameworks like Shiny.\nPlatform Independence: R runs on various operating systems, including Windows, macOS, and Linux. • Strong Community: R has a large and active community that contributes to its ongoing development, documentation, and support through forums and conferences like useR!.\nIntegration: It can integrate with other programming languages, such as C, C++, and Python, for computationally intensive tasks or expanded functionality.\n\n\n\n\nR is a go-to tool for professionals across many data-intensive fields:\n\nData Science and Analytics: Used for data cleaning, transformation, analysis, and building predictive models.\nAcademic Research: A standard tool for statistical analysis, hypothesis testing, and producing reproducible research.\nFinance: Employed for credit risk modeling, fraud detection, and portfolio analysis.\nHealthcare and Biostatistics: Used in genetics, epidemiology, and drug discovery to analyze complex medical and genomic data.\nMarketing: Used for customer segmentation, campaign performance analysis, and sentiment analysis.\nSupply Chain : To perform Demand & Supply Planning calculations, create an E2E (End-to-End) analysis, manage some allocations or to run some scenarios for the S&OP (Sales & Operations Planning) process\n\n\nUsers typically interact with R through an Integrated Development Environment (IDE), with RStudio being the most popular choice."
+  },
+  {
+    "objectID": "what_is_r.html#key-features-and-capabilities",
+    "href": "what_is_r.html#key-features-and-capabilities",
+    "title": "What is R?",
+    "section": "",
+    "text": "Specialized Purpose: Unlike general-purpose languages like Python, R was built by statisticians, meaning its core functionality and extensive ecosystem of packages are heavily optimized for statistical tasks and data manipulation.\nVast Ecosystem of Packages: A major strength of R is its repository, the Comprehensive R Archive Network (CRAN), which hosts over 20,000 user-contributed packages that extend its capabilities for specialized tasks such as machine learning (e.g., caret, xgboost), advanced visualization (ggplot2, plotly), and bioinformatics.\nPowerful Data Visualization: R is renowned for its high-quality, publication-ready graphics. Packages like ggplot2 allow for creating highly customizable and aesthetically pleasing charts and interactive web applications using frameworks like Shiny.\nPlatform Independence: R runs on various operating systems, including Windows, macOS, and Linux. • Strong Community: R has a large and active community that contributes to its ongoing development, documentation, and support through forums and conferences like useR!.\nIntegration: It can integrate with other programming languages, such as C, C++, and Python, for computationally intensive tasks or expanded functionality."
+  },
+  {
+    "objectID": "what_is_r.html#primary-use-cases",
+    "href": "what_is_r.html#primary-use-cases",
+    "title": "What is R?",
+    "section": "",
+    "text": "R is a go-to tool for professionals across many data-intensive fields:\n\nData Science and Analytics: Used for data cleaning, transformation, analysis, and building predictive models.\nAcademic Research: A standard tool for statistical analysis, hypothesis testing, and producing reproducible research.\nFinance: Employed for credit risk modeling, fraud detection, and portfolio analysis.\nHealthcare and Biostatistics: Used in genetics, epidemiology, and drug discovery to analyze complex medical and genomic data.\nMarketing: Used for customer segmentation, campaign performance analysis, and sentiment analysis.\nSupply Chain : To perform Demand & Supply Planning calculations, create an E2E (End-to-End) analysis, manage some allocations or to run some scenarios for the S&OP (Sales & Operations Planning) process\n\n\nUsers typically interact with R through an Integrated Development Environment (IDE), with RStudio being the most popular choice."
+  },
+  {
+    "objectID": "what_is_r.html#key-advantages-of-using-r-for-supply-chain-management",
+    "href": "what_is_r.html#key-advantages-of-using-r-for-supply-chain-management",
+    "title": "What is R?",
+    "section": "Key Advantages of Using R for Supply Chain Management",
+    "text": "Key Advantages of Using R for Supply Chain Management\n\nAdvanced Statistical Analysis and Modeling: R was specifically designed for statisticians and excels in complex statistical modeling, econometrics, and research applications. This capability is crucial for:\n\nDemand forecasting using various time-series models.\nInventory optimization to reduce stockouts and lower carrying costs.\nRegression analysis to identify factors influencing demand or lead times.\nOptimization modeling for supply chain network design and reverse logistics systems (e.g., minimizing transportation costs).\n\nReproducibility and Automation: R code inherently documents the analysis process, making supply chain operations more transparent, easier to debug, and reproducible. This allows for the automation of repetitive tasks like data cleaning and reporting, saving significant time.\nPowerful Visualization and Reporting: R offers robust packages like ggplot2 for creating high-quality static visualizations and Shiny for building interactive web applications and dashboards. These applications can be shared with various stakeholders (sales, finance, management) to balance demand and supply visually and support the Sales & Operations Planning (S&OP) process.\nFlexibility and Customization: As an open-source language with a vast collection of community-developed packages, R provides access to cutting-edge techniques as soon as they emerge. This allows supply chain professionals to develop custom algorithms and models tailored to specific business needs without being restricted by the update cycles of commercial software.\nCost-Effectiveness: R and many of its enterprise-adjacent tools, like RStudio Connect for deployment, are free or low-cost compared to proprietary systems, offering a quick return on investment through time and cost savings.\n\n\nIn essence, R provides the analytical depth and flexibility needed to address complex, dynamic supply chain challenges, enabling data-driven decision-making and improved operational efficiency."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Publications",
+    "section": "",
+    "text": "book “Demand and Supply planning using R”"
+  },
+  {
+    "objectID": "blog.html#github-repository",
+    "href": "blog.html#github-repository",
+    "title": "Publications",
+    "section": "GitHub repository",
+    "text": "GitHub repository"
+  },
+  {
+    "objectID": "blog.html#website",
+    "href": "blog.html#website",
+    "title": "Publications",
+    "section": "website",
+    "text": "website"
+  },
+  {
+    "objectID": "services.html#demand-analytics-tactical-bucket-optimization",
+    "href": "services.html#demand-analytics-tactical-bucket-optimization",
+    "title": "Consulting Services",
+    "section": "1. Demand Analytics & Tactical Bucket Optimization",
+    "text": "1. Demand Analytics & Tactical Bucket Optimization\nMoving from macro-level marketing budgets or sales targets to an executable master production schedule requires highly precise tactical data engineering. We eliminate manual splitting errors and unorganized demand signals.\n\nAutomated Time-Bucket Transformations: We eliminate manual spreadsheet allocations by engineering automated daily, weekly, or monthly bucket splits (month_to_weekx). Your macro demand targets are programmatically mapped down to operational manufacturing buckets using dynamic, history-driven weightings.\nHierarchical Forecast Interfacing: We build tidy data pipelines that seamlessly aggregate and disaggregate erratic market demand signals from multiple retail and distribution streams, ensuring your data is clean, synchronized, and immediately ready for inventory calculations."
+  },
+  {
+    "objectID": "services.html#advanced-supply-planning-multi-echelon-drp",
+    "href": "services.html#advanced-supply-planning-multi-echelon-drp",
+    "title": "Consulting Services",
+    "section": "2. Advanced Supply Planning & Multi-Echelon DRP",
+    "text": "2. Advanced Supply Planning & Multi-Echelon DRP\nAvoid the twin traps of working capital-tying overstocks and costly market stockouts. We replace slow, manual replenishment tracking with high-speed multi-echelon Simulation Planning.\n\nInstant Dynamic DRP Engines: We replace legacy, overnight batch processing with rapid Distribution Requirement Planning loops (drp()). Evaluate portfolio-wide stock projections, net requirements, and replenishment schedules across 10,000+ SKUs natively in seconds.\nLive In-Transit Pipeline Tracking: Integrate active ocean and air freight pipelines (proj_git()) directly into your weekly inventory coverage horizons to gain complete, automated visibility over what is globally on its way to your distribution centers.\nSafety Stock & Coverage Diagnostics: Build continuous safety stock alert mechanisms that dynamically flag forward-looking inventory breaches and run-out timelines based on real lead-time variations, not unscientific averages."
+  },
+  {
+    "objectID": "services.html#short-shelf-life-ssl-obsolete-inventory-risk-mitigation",
+    "href": "services.html#short-shelf-life-ssl-obsolete-inventory-risk-mitigation",
+    "title": "Consulting Services",
+    "section": "3. Short Shelf Life (SSL) & Obsolete Inventory Risk Mitigation",
+    "text": "3. Short Shelf Life (SSL) & Obsolete Inventory Risk Mitigation\nFor highly regulated and fast-moving industries like Pharmaceuticals, Cosmetics, and Fresh Foods, managing inventory age is critical to protecting gross margins.\n\nAutomated Expiry & Ageing Analysis: We write specialized shelf-life projection algorithms (ssl()) that map product batches against local target horizons. This gives your planners early-warning alerts for expiring batches or diminishing Remaining Shelf Life (RSL) months before financial write-offs happen.\nObsolescence Scenario Testing: Simulate waste risks across multi-country distribution networks during product reformulations, re-packaging updates, or unexpected demand drops."
+  },
+  {
+    "objectID": "services.html#constrained-sop-allocation-engines",
+    "href": "services.html#constrained-sop-allocation-engines",
+    "title": "Consulting Services",
+    "section": "4. Constrained S&OP Allocation Engines",
+    "text": "4. Constrained S&OP Allocation Engines\nWhen supply shocks occur or manufacturing capacity drops, your business cannot rely on manual triage. We replace ad-hoc, chaotic decision-making with automated, rules-based priority mapping.\n\nFinancial Gaps & Unfulfilled Demand Diagnostics: Quantify your precise financial exposure during supply deficits by programmatically calculating unfulfilled demand gaps (const_dmd()).\nAlgorithmic Fair-Share Distribution: We build mathematical allocation engines (alloc_dmd()) that systematically route restricted inventory across distribution nodes or key global retail clients based on pre-defined corporate tiers, service contracts, or margin priority rules."
+  },
+  {
+    "objectID": "services.html#legacy-excel-to-r-digital-transformations",
+    "href": "services.html#legacy-excel-to-r-digital-transformations",
+    "title": "Consulting Services",
+    "section": "5. Legacy Excel-to-R Digital Transformations",
+    "text": "5. Legacy Excel-to-R Digital Transformations\nWe help mature global supply chains transition away from costly “Excel Hell” and heavy, inflexible macro code, upgrading teams to modern, reproducible data workflows.\n\nSpreadsheet Audit & Automation: We map out your company’s critical, hidden planning spreadsheets, extract their underlying mathematical logic, and re-engineer them into fast, clean, secure, and documented R scripts.\nCustom Interactive S&OP Frameworks: Build lightweight, high-performance HTML/Markdown dashboards and interactive visualization portals that enable your executive S&OP leaders to perform real-time scenario planning during monthly review meetings."
+  },
+  {
+    "objectID": "services.html#our-engagement-framework",
+    "href": "services.html#our-engagement-framework",
+    "title": "Consulting Services",
+    "section": "Our Engagement Framework",
+    "text": "Our Engagement Framework\nWe treat your supply chain logic as clean code. Every consulting project follows an engineering-first pipeline to ensure long-term stability and absolute transparency:\n\nThe Diagnostic Audit: We analyze your current data environment, identifying manual extraction points, unmapped bottlenecks, and spreadsheet safety risks.\nMathematical Prototyping: We model your business logic natively using R, writing clean code blocks that tackle your specific target coverages, bucket splits, or allocation laws.\nPipeline Production: We deliver a fully localized, self-contained, and documented data architecture that hooks directly into your flat file reports, SQL servers, or ERP exports.\nTeam Empowerment: We transfer the knowledge, ensuring your planning managers know exactly how to trigger, read, and maintain their new code-driven ecosystem."
   }
 ]

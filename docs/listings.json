@@ -1,0 +1,20 @@
+[
+  {
+    "listing": "/cases_studies.html",
+    "items": [
+      "/about.html",
+      "/blog.html",
+      "/contact.html",
+      "/drp_automation.html",
+      "/index.html",
+      "/services.html"
+    ]
+  },
+  {
+    "listing": "/case-studies/index.html",
+    "items": [
+      "/case-studies/drp_automation.html",
+      "/case-studies/projected_inventories_calculation.html"
+    ]
+  }
+]
