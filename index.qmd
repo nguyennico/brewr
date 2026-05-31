@@ -8,24 +8,21 @@ page-layout: full
 
 ::: {.hero-banner style="background: #f8f9fa; padding: 3rem; border-radius: 10px; margin-bottom: 2rem;"}
 # Optimize Your S&OP Process with R
-We build custom, reproducible data pipelines and forecasting models that transform chaotic supply chain data into actionable inventory and demand strategies.
-[Schedule a Consultation](contact.html){.btn .btn-primary .btn-lg role="button"}
+
+We build custom, reproducible data pipelines and forecasting models that transform chaotic supply chain data into actionable inventory and demand strategies. [Schedule a Consultation](contact.html){.btn .btn-primary .btn-lg role="button"}
 :::
 
 ## Why planr?
-Traditional ERP modules are rigid. We use custom R environments to build bespoke tools that adapt directly to your business constraints. 
 
-* **Demand Planning:** Machine learning models that account for seasonality, promotions, and macroeconomic indicators.
-* **Supply & Inventory Optimization:** Safety stock simulations built on actual demand distributions, not generic averages.
-* **S&OP Alignment:** Automated executive dashboards that align Sales, Finance, and Operations instantly.
+Traditional ERP modules are rigid. We use custom R environments to build bespoke tools that adapt directly to your business constraints.
 
-
-
-
-
+-   **Demand Planning:** Machine learning models that account for seasonality, promotions, and macroeconomic indicators.
+-   **Supply & Inventory Optimization:** Safety stock simulations built on actual demand distributions, not generic averages.
+-   **S&OP Alignment:** Automated executive dashboards that align Sales, Finance, and Operations instantly.
 
 ::: {.hero-banner style="background: #111111; color: #ffffff; padding: 5rem 3rem; border-radius: 8px; margin-bottom: 3.5rem; text-align: center;"}
 # Agile, Code-Driven Operations for Complex Supply Chains
+
 We engineer lightweight, reproducible mathematical engines that transform chaotic data pipelines into clean, actionable inventory and forecasting roadmaps.
 
 [Analyze Our Methodology](case-studies/index.html){.btn .btn-outline-light .btn-lg style="margin-right: 10px;"} [Schedule a Consultation](contact.html){.btn .btn-primary .btn-lg}
@@ -35,57 +32,54 @@ We engineer lightweight, reproducible mathematical engines that transform chaoti
 
 Modern enterprises spend millions implementing global Enterprise Resource Planning (ERP) systems and Advanced Planning Suites (APS). Yet, if you walk into almost any supply chain department, the actual day-to-day tactical decisions are still being run on fragile, slow, manual Excel workbooks.
 
-Why? Because static enterprise software is built for standardization, not agility. 
+Why? Because static enterprise software is built for standardization, not agility.
 
 When your business encounters real-world disruptions—like changing shelf-life constraints, complex promotional buckets, or the need for fair-share demand allocations—legacy software forces your team to extract data into spreadsheets that break if a single column moves.
 
----
+------------------------------------------------------------------------
 
 ## Why R? The Competitive Edge in Planning
 
 We build custom planning solutions using **R**, an open-source, production-grade statistical programming language. By treating your supply chain logic as code rather than cell formulas, we unlock unprecedented operational advantages:
 
 ### ⚡ Speed & Scale at 10,000+ SKUs
+
 Traditional spreadsheets grind to a halt when calculating forward stock projections and safety stock coverages across deep product portfolios. R processes millions of rows of supply chain data natively in seconds.
 
 ### 🔄 Absolute Reproducibility
+
 No more hidden macro bugs or accidental cell deletions. An R-driven pipeline ensures that the exact same mathematical logic is applied to your data every single week, leaving a transparent, auditable trail from raw ERP data to final S&OP plan.
 
 ### 🌐 Native Integration & Open Source Freedom
+
 R connects seamlessly with your existing data stack—whether fetching data from SQL warehouses, cloud APIs, or flat ERP dumps—without requiring expensive per-user software licenses or complex proprietary platforms.
 
----
+------------------------------------------------------------------------
 
 ## The Strategic Complement to Your ERP & APS
 
-**planr** does not replace your ERP; we unlock its true value. We design targeted algorithms that act as a high-speed analytical layer sitting directly between your transactional systems and your executive S&OP cycle.
+**planr** does not seek to replace your foundational enterprise architecture; we unlock its true capability. We design targeted algorithms that act as a high-speed mathematical layer sitting directly between your transactional systems and your executive S&OP cycle.
 
-| Capability | Transactional ERP | Traditional APS Suites | The planr Layer (R) |
-| :--- | :---: | :---: | :---: |
-| **Primary Function** | System of Record & Execution | Rigid, High-Level Optimization | **Agile Operational Mathematics** |
-| **Calculation Speed** | Slow batch processing | Hours/Days overnight | **Seconds (Instant scenario testing)** |
-| **Bespoke Business Logic** | Highly expensive to customize | Constrained by vendor modules | **Infinite flexibility via clean code** |
-| **S&OP Data Prep Time** | Days of manual cleaning | Hours of translation | **Fully automated data pipelines** |
+Instead of manual data dumps that turn Excel into a fragile standalone system, we use R to transform data handling into a robust, hands-free automation engine.
+
+| Capability | Transactional ERP | Traditional APS Suites | Microsoft Excel | The planr Layer (R) |
+|:---|:--:|:--:|:--:|:--:|
+| **Primary Function** | System of Record & Execution | Rigid, High-Level Optimization | Manual Triage & Static Reporting | **Agile Operational Mathematics** |
+| **Calculation Speed** | Slow batch processing | Hours / Days overnight | Sluggish / Crashes at scale | **Seconds (Instant scenario testing)** |
+| **Bespoke Business Logic** | Highly expensive to customize | Constrained by rigid vendor modules | Highly customizable but unmanageable | **Infinite flexibility via clean code** |
+| **S&OP Data Prep Time** | Days of manual cleaning | Hours of translation | Massive manual cleaning overhead | **Fully automated data pipelines** |
+| **Auditability & Security** | Strong but inflexible | Black-box algorithms | Low (Hidden bugs, accidental cell edits) | **Absolute transparency (Version-controlled)** |
 
 > **Our Foundational Rule:** If an analytical planning rule can be defined mathematically, it can be automated completely. We eliminate the administrative drag of S&OP preparation so your team can focus on execution, not data manipulation.
 
----
+------------------------------------------------------------------------
 
 ## Core Pillars of the planr Framework
 
 Our consulting interventions leverage lightweight, functional programming architectures to target the three bottlenecks where traditional software fails:
 
-* **Demand Bucket Automation:** Programmatically parsing and aligning erratic demand signals, automatically splitting monthly macro targets into executable, weighted weekly buckets.
-* **Replenishment & DRP Diagnostics:** Algorithmic calculation of forward-looking projected inventory balances, dynamic transit pipeline tracking, and instant safety stock alert systems.
-* **Constrained Allocation & Risk Management:** Rules-based "fair-share" distribution engines to allocate inventory optimally during supply shocks, alongside automated tracking of short-shelf life (SSL) write-off exposures.
+-   **Demand Bucket Automation:** Programmatically parsing and aligning erratic demand signals, automatically splitting monthly macro targets into executable, weighted weekly buckets.
+-   **Replenishment & DRP Diagnostics:** Algorithmic calculation of forward-looking projected inventory balances, dynamic transit pipeline tracking, and instant safety stock alert systems.
+-   **Constrained Allocation & Risk Management:** Rules-based "fair-share" distribution engines to allocate inventory optimally during supply shocks, alongside automated tracking of short-shelf life (SSL) write-off exposures.
 
 <FollowUp label="Would you like to review a sample layout for the Services page next?" query="Create the detailed markdown text for the services.qmd page focusing on the technical R functions used for S&OP." />
-
-
-
-
-
-
-
-
-
